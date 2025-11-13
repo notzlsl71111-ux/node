@@ -65,7 +65,7 @@
       <a href="mailto:Cown238@gmail.com">อีเมล</a>
       <a href="https://www.instagram.com/wongsakonez" target="_blank">Instagram</a>
       <a href="https://www.facebook.com/wongsakonez" target="_blank">Facebook</a>
-      <a href="https://wskonersc.info" target="_blank">เว็บไซต์: wskonersc.info</a>
+      <a href="https://wskonersc.info" target="_blank">เว็บไซต์: Rosantoscs1997.com</a>
     </div>
 
     <!-- Contact Form -->
